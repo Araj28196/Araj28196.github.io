@@ -33,7 +33,7 @@ components, including peers, orderers, and chaincode, while maintaining network 
 - Exhibited a proactive approach to learning and adapting to new DevOps tools and technologies relevant to Hyperledger Fabric,
 enabling successful deployment and management of blockchain networks despite being at an intermediate level in the field
 
-### Projects@ Work
+### Projects@ personal
 
 #### Project Sentinel
 - Developed a custom security camera system for a small distributor shop, leveraging an SBC (Single Board Computer) and a TPU
