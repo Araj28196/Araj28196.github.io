@@ -1,6 +1,6 @@
 # Hyperledger Administrator/AI Developer
 
-### objective
+### Objective
 
 Skilled Software Developer with expertise in Blockchain technology(Hyperledger Fabric). Adept at integrating tools like Docker,
 Kubernetes to build scalable solutions. Also Proficient in data science, machine learning models, and Devops tools. Quick learner
