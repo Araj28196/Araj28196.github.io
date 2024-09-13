@@ -12,4 +12,4 @@ Developed a custom security camera system for a small distributor shop, leveragi
 ## Implementation Details
 The SBC runs the Frigate application, which uses the TPU for efficient object detection. We're currently training and refining detection models, focusing on accuracy with real-time data from the camera.
 
-![Frigate Dashboard](../images/frigate-dashboard.png)
+![Frigate Dashboard](../assets/images/frigate-dashboard.png)
